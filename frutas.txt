@@ -10,3 +10,5 @@ Mango
 Durazno
 Naranja
 Fresa
+Naranja
+Fresa
