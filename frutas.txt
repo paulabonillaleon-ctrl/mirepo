@@ -2,3 +2,6 @@ Uva
 Frambuesa
 Mango
 Fresa
+Piña
+Mango
+Durazno
