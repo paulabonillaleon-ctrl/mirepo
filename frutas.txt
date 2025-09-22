@@ -12,3 +12,6 @@ Naranja
 Fresa
 Naranja
 Fresa
+Piña
+Mango
+Durazno
