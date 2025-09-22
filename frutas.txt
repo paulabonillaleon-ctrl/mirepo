@@ -4,3 +4,9 @@ Fresa
 Piña
 Mango
 Durazno
+Frambuesa
+Fresa
+Mango
+Durazno
+Naranja
+Fresa
